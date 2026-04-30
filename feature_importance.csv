@@ -1,0 +1,21 @@
+Feature,Importance,Model
+radius_worst,0.15687660365299483,Random Forest
+perimeter_worst,0.1444562031514059,Random Forest
+concave points_mean,0.13978414054259863,Random Forest
+concave points_worst,0.12763493468344667,Random Forest
+area_worst,0.11607020119562043,Random Forest
+concavity_mean,0.05642680542114059,Random Forest
+area_mean,0.03298009737907331,Random Forest
+area_se,0.03139853713865769,Random Forest
+concavity_worst,0.026079574365227506,Random Forest
+perimeter_mean,0.025540487058979773,Random Forest
+concave points_worst,0.28958237171173096,XGBoost
+concave points_mean,0.25078386068344116,XGBoost
+area_worst,0.12047678977251053,XGBoost
+perimeter_worst,0.08292404562234879,XGBoost
+radius_worst,0.08084681630134583,XGBoost
+texture_worst,0.03342770040035248,XGBoost
+perimeter_se,0.03150613233447075,XGBoost
+concavity_worst,0.018480462953448296,XGBoost
+texture_mean,0.01803753897547722,XGBoost
+area_mean,0.012939163483679295,XGBoost

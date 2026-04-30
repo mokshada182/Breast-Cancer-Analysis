@@ -1,0 +1,5 @@
+data = load_breast_cancer()
+X = pd.DataFrame(data.data, columns=data.feature_names)
+y = pd.Series(data.target)
+print("Data shape:", X.shape)
+print("Target distribution:", y.value_counts())
