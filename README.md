@@ -49,6 +49,18 @@ This project uses machine learning to predict breast cancer using various classi
 - Feature importance visualization
 - User input for real-time prediction
 
+## Breast Cancer Analysis Project
+
+This is a group project.
+
+Original repository:
+https://github.com/mikey-uxx/BreastCancerAnanlysis
+
+## My Contributions
+- Designed and implemented data visualizations (heatmaps, box plots, distribution plots)
+- Explored dataset to identify patterns and feature relationships
+- Supported data preprocessing and analysis
+
 ## 📬 Contact
 
 Made with 💙 for REW1 submission.
